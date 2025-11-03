@@ -1,23 +1,37 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "",
+    "text": "Compost-Based Greenhouse Heating\n\n132,879 BTU/hr load modelling\nBiofilter EBRT = 60 s design work\n\n\n\nTRNSYS Greenhouse Simulation\n\n60 × 30 ft, double poly, winter scenarios"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Home",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "I am from Bangladesh, 2nd year PhD student here at UNH. Doing research on Renewable Energy.\n\n\n\nFinish PhD milestones\nBuild compost-based heating system\n\n\n\n\n\nPhD, University of New Hampshire (ongoing)\nBSc, Agricultural Engineering\n\n\n\n\n\nTA, ANSC 609 – grading, quizzes, literature reviews\nEAE Lab – compost heat recovery & greenhouse microclimate work"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "Home",
+    "section": "",
+    "text": "Finish PhD milestones\nBuild compost-based heating system"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Home",
+    "section": "",
+    "text": "PhD, University of New Hampshire (ongoing)\nBSc, Agricultural Engineering"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Home",
+    "section": "",
+    "text": "TA, ANSC 609 – grading, quizzes, literature reviews\nEAE Lab – compost heat recovery & greenhouse microclimate work"
   }
 ]

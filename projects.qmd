@@ -2,8 +2,9 @@
 title: "Projects"
 ---
 
-## Project 1
+# Compost-Based Greenhouse Heating
+- 132,879 BTU/hr load modelling
+- Biofilter EBRT = 60 s design work
 
-## Project 2
-
-## Project 3
+# TRNSYS Greenhouse Simulation
+- 60 × 30 ft, double poly, winter scenarios

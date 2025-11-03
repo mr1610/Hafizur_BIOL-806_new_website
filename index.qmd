@@ -1,19 +1,25 @@
 ---
-title: "About Me"
+title: "Home"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/Hafizur.jpg
 ---
 
-:::{#me}
+
+
+# About Me
+I am from Bangladesh, 2nd year PhD student here at UNH. Doing research on Renewable Energy.
 
 ## Goals
+- Finish PhD milestones
+- Build compost-based heating system
 
 ## Education
+- PhD, University of New Hampshire (ongoing)
+- BSc, Agricultural Engineering
 
 ## Experience
+- TA, ANSC 609 – grading, quizzes, literature reviews
+- EAE Lab – compost heat recovery & greenhouse microclimate work
 
-:::
-
-Thanks for checking out my web site!

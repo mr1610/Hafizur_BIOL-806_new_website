@@ -1,14 +1,17 @@
 project:
   type: website
   output-dir: docs
-  
+  resources:
+    - img/**
+
 website:
   title: "Hafizur new website"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - href: projects.qmd
+        text: projects
     tools:
       - icon: twitter
         href: https://twitter.com/
@@ -17,6 +20,7 @@ website:
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2023, Md Hafizur Rahman"
+    center: "Thanks for checking out my website"
 
 format:
   html:
@@ -24,4 +28,3 @@ format:
     toc: true
 
 editor: source
-
